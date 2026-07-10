@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET Project\\MyFirstMVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|d:\\dotnet project\\myfirstmvcapp\\myfirstmvcapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|solutionrelative:myfirstmvcapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|d:\\dotnet project\\myfirstmvcapp\\myfirstmvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|solutionrelative:myfirstmvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|d:\\dotnet project\\myfirstmvcapp\\myfirstmvcapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|solutionrelative:myfirstmvcapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|d:\\dotnet project\\myfirstmvcapp\\myfirstmvcapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|solutionrelative:myfirstmvcapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|d:\\dotnet project\\myfirstmvcapp\\myfirstmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|solutionrelative:myfirstmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|d:\\dotnet project\\myfirstmvcapp\\myfirstmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|solutionrelative:myfirstmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|d:\\dotnet project\\myfirstmvcapp\\myfirstmvcapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|solutionrelative:myfirstmvcapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|d:\\dotnet project\\myfirstmvcapp\\myfirstmvcapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|solutionrelative:myfirstmvcapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|d:\\dotnet project\\myfirstmvcapp\\myfirstmvcapp\\views\\dashboard\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|solutionrelative:myfirstmvcapp\\views\\dashboard\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|d:\\dotnet project\\myfirstmvcapp\\myfirstmvcapp\\views\\dashboard\\updateemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA659C2E-0E69-4E45-8226-8410254269E0}|MyFirstMVCApp\\MyFirstMVCApp.csproj|solutionrelative:myfirstmvcapp\\views\\dashboard\\updateemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\.gitignore",
+              "RelativeDocumentMoniker": "MyFirstMVCApp\\.gitignore",
+              "ToolTip": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\.gitignore",
+              "RelativeToolTip": "MyFirstMVCApp\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-10T20:02:51.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyFirstMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyFirstMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T19:47:20.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MyFirstMVCApp\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MyFirstMVCApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAkwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:27:27.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstMVCApp\\Program.cs",
+              "ToolTip": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Program.cs",
+              "RelativeToolTip": "MyFirstMVCApp\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswDsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:03:51.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyFirstMVCApp\\appsettings.json",
+              "ToolTip": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\appsettings.json",
+              "RelativeToolTip": "MyFirstMVCApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T19:01:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateEmployee.cshtml",
+              "DocumentMoniker": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\Dashboard\\UpdateEmployee.cshtml",
+              "RelativeDocumentMoniker": "MyFirstMVCApp\\Views\\Dashboard\\UpdateEmployee.cshtml",
+              "ToolTip": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\Dashboard\\UpdateEmployee.cshtml",
+              "RelativeToolTip": "MyFirstMVCApp\\Views\\Dashboard\\UpdateEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T15:04:10.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MyFirstMVCApp\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MyFirstMVCApp\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T14:18:48.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyFirstMVCApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyFirstMVCApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T19:26:14.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\Dashboard\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "MyFirstMVCApp\\Views\\Dashboard\\AddEmployee.cshtml",
+              "ToolTip": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\Dashboard\\AddEmployee.cshtml",
+              "RelativeToolTip": "MyFirstMVCApp\\Views\\Dashboard\\AddEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T15:03:29.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyFirstMVCApp\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\DOTNET Project\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MyFirstMVCApp\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T14:21:11.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
